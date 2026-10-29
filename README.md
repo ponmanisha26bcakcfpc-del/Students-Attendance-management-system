@@ -5,8 +5,7 @@ https://www.figma.com/design/YO2SzwX9uQ8g0DBDsNmxNQ/Untitled?node-id=0-1&p=f&t=h
 
 Prototype link
 
-https://www.figma.com/proto/YO2SzwX9uQ8g0DBDsNmxNQ/Untitled?node-id=7-26&t=h81YoBRLmpFATa5U-1
-
+https://www.figma.com/proto/FTdeqMWNVzJNWSdU9Vlts2/Untitled?node-id=3-3&t=mrHDnAv6WosEEzGN-1
 
 # 🎓 Student Attendance App UI Design – High-Fidelity
 
