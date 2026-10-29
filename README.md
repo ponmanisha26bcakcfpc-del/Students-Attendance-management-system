@@ -1,9 +1,12 @@
 # Students-Attendance-management-system
 Design link
+
 https://www.figma.com/design/YO2SzwX9uQ8g0DBDsNmxNQ/Untitled?node-id=0-1&p=f&t=h45tCADckJrjM6AB-0
 
 Prototype link
-https://www.figma.com/design/YO2SzwX9uQ8g0DBDsNmxNQ/Untitled?node-id=0-1&m=dev&t=h45tCADckJrjM6AB-1
+
+https://www.figma.com/proto/YO2SzwX9uQ8g0DBDsNmxNQ/Untitled?node-id=7-26&t=h81YoBRLmpFATa5U-1
+
 
 # 🎓 Student Attendance App UI Design – High-Fidelity
 
